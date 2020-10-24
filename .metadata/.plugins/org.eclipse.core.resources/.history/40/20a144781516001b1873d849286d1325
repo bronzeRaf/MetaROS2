@@ -4,11 +4,11 @@
   <eClassifiers xsi:type="ecore:EClass" name="ROSSystem">
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
         defaultValueLiteral="workspace"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="hasDeployment" lowerBound="1"
+    <eStructuralFeatures xsi:type="ecore:EReference" name="hasDeployment" upperBound="-1"
         eType="#//Deployment" containment="true"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="hasSoftware" lowerBound="1"
+    <eStructuralFeatures xsi:type="ecore:EReference" name="hasSoftware" upperBound="-1"
         eType="#//Software" containment="true"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="hasSystemGraph" lowerBound="1"
+    <eStructuralFeatures xsi:type="ecore:EReference" name="hasSystemGraph" upperBound="-1"
         eType="#//SystemGraph" containment="true"/>
   </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="Deployment"/>

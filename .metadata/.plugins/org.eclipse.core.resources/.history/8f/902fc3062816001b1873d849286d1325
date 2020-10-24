@@ -91,7 +91,7 @@
     <eStructuralFeatures xsi:type="ecore:EReference" name="package" upperBound="-1"
         eType="#//Package"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="Package" abstract="true">
+  <eClassifiers xsi:type="ecore:EClass" name="Package">
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
         defaultValueLiteral=""/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="rosVersion" lowerBound="1"
