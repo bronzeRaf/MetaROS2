@@ -28,7 +28,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
         <target xmi:type="ecore:EPackage" href="metasoftware.ecore#/"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_38L0kBYHEeuUN8YJZcfPqQ" name="metapackage" repPath="#_38BcgBYHEeuUN8YJZcfPqQ" changeId="f3313f32-a0e6-4a67-a374-cc21d4e09ae3">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_38L0kBYHEeuUN8YJZcfPqQ" name="metapackage" repPath="#_38BcgBYHEeuUN8YJZcfPqQ" changeId="e7b8f24a-3220-4f4a-af47-04b03b7747af">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
         <target xmi:type="ecore:EPackage" href="metapackage.ecore#/"/>
       </ownedRepresentationDescriptors>
@@ -5189,9 +5189,9 @@
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EClass']/@subNodeMappings[name='EC%20EAttribute']"/>
       </ownedElements>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_CiCjuhe2EeuUMK1UmjJWBA" name="[0..*] hasLaunchFiles" sourceNode="_4XWGkBYHEeuUN8YJZcfPqQ" targetNode="_4dEesBe1EeuUMK1UmjJWBA">
-      <target xmi:type="ecore:EReference" href="metapackage.ecore#//Package/hasLaunchFiles"/>
-      <semanticElements xmi:type="ecore:EReference" href="metapackage.ecore#//Package/hasLaunchFiles"/>
+    <ownedDiagramElements xmi:type="diagram:DEdge" uid="_CiCjuhe2EeuUMK1UmjJWBA" name="[0..*] HasLaunchFiles" sourceNode="_4XWGkBYHEeuUN8YJZcfPqQ" targetNode="_4dEesBe1EeuUMK1UmjJWBA">
+      <target xmi:type="ecore:EReference" href="metapackage.ecore#//Package/HasLaunchFiles"/>
+      <semanticElements xmi:type="ecore:EReference" href="metapackage.ecore#//Package/HasLaunchFiles"/>
       <ownedStyle xmi:type="diagram:EdgeStyle" uid="_CiDKoBe2EeuUMK1UmjJWBA" description="_4YEfVxYHEeuUN8YJZcfPqQ" sourceArrow="FillDiamond" routingStyle="manhattan" strokeColor="0,0,0">
         <centerLabelStyle xmi:type="diagram:CenterLabelStyle" uid="_CiDKohe2EeuUMK1UmjJWBA" showIcon="false">
           <customFeatures>labelSize</customFeatures>

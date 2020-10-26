@@ -67,8 +67,5 @@
   </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="LaunchFile">
     <eStructuralFeatures xsi:type="ecore:EReference" name="host" lowerBound="1" eType="#//Host"/>
-    <eStructuralFeatures xsi:type="ecore:EAttribute" name="name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-    <eStructuralFeatures xsi:type="ecore:EAttribute" name="arguments" upperBound="-1"
-        eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
   </eClassifiers>
 </ecore:EPackage>
