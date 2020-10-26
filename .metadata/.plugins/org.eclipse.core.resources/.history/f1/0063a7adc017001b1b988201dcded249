@@ -28,7 +28,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
         <target xmi:type="ecore:EPackage" href="metasoftware.ecore#/"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_38L0kBYHEeuUN8YJZcfPqQ" name="metapackage" repPath="#_38BcgBYHEeuUN8YJZcfPqQ" changeId="e0fa848f-813e-4959-bd42-bc51f74e453f">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_38L0kBYHEeuUN8YJZcfPqQ" name="metapackage" repPath="#_38BcgBYHEeuUN8YJZcfPqQ" changeId="f3313f32-a0e6-4a67-a374-cc21d4e09ae3">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']"/>
         <target xmi:type="ecore:EPackage" href="metapackage.ecore#/"/>
       </ownedRepresentationDescriptors>
@@ -4307,49 +4307,49 @@
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']"/>
-      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xohYHEeuUN8YJZcfPqQ" name="Ardent_Apalone" tooltipText="">
-        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Ardent_Apalone"/>
-        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Ardent_Apalone"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xohYHEeuUN8YJZcfPqQ" name="Ardent Apalone" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Ardent%20Apalone"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Ardent%20Apalone"/>
         <ownedStyle xmi:type="diagram:BundledImage" uid="_4X9xoxYHEeuUN8YJZcfPqQ" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xpBYHEeuUN8YJZcfPqQ" name="Bouncy_Bolson" tooltipText="">
-        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Bouncy_Bolson"/>
-        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Bouncy_Bolson"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xpBYHEeuUN8YJZcfPqQ" name="Bouncy Bolson" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Bouncy%20Bolson"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Bouncy%20Bolson"/>
         <ownedStyle xmi:type="diagram:BundledImage" uid="_4X9xpRYHEeuUN8YJZcfPqQ" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xphYHEeuUN8YJZcfPqQ" name="Crystal_Clemmys" tooltipText="">
-        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Crystal_Clemmys"/>
-        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Crystal_Clemmys"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xphYHEeuUN8YJZcfPqQ" name="Crystal Clemmys" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Crystal%20Clemmys"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Crystal%20Clemmys"/>
         <ownedStyle xmi:type="diagram:BundledImage" uid="_4X9xpxYHEeuUN8YJZcfPqQ" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xqBYHEeuUN8YJZcfPqQ" name="Dashing_Diademata" tooltipText="">
-        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Dashing_Diademata"/>
-        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Dashing_Diademata"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xqBYHEeuUN8YJZcfPqQ" name="Dashing Diademata" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Dashing%20Diademata"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Dashing%20Diademata"/>
         <ownedStyle xmi:type="diagram:BundledImage" uid="_4X9xqRYHEeuUN8YJZcfPqQ" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xqhYHEeuUN8YJZcfPqQ" name="Eloquent_Elusor" tooltipText="">
-        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Eloquent_Elusor"/>
-        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Eloquent_Elusor"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X9xqhYHEeuUN8YJZcfPqQ" name="Eloquent Elusor" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Eloquent%20Elusor"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Eloquent%20Elusor"/>
         <ownedStyle xmi:type="diagram:BundledImage" uid="_4X-YsBYHEeuUN8YJZcfPqQ" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
         </ownedStyle>
         <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']"/>
       </ownedElements>
-      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X-YsRYHEeuUN8YJZcfPqQ" name="Foxy_Fitzroy" tooltipText="">
-        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Foxy_Fitzroy"/>
-        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Foxy_Fitzroy"/>
+      <ownedElements xmi:type="diagram:DNodeListElement" uid="_4X-YsRYHEeuUN8YJZcfPqQ" name="Foxy Fitzroy" tooltipText="">
+        <target xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Foxy%20Fitzroy"/>
+        <semanticElements xmi:type="ecore:EEnumLiteral" href="metapackage.ecore#//ROSVersion/Foxy%20Fitzroy"/>
         <ownedStyle xmi:type="diagram:BundledImage" uid="_4X-YshYHEeuUN8YJZcfPqQ" labelAlignment="LEFT">
           <description xmi:type="style:BundledImageDescription" href="platform:/plugin/org.eclipse.emf.ecoretools.design/description/ecore.odesign#//@ownedViewpoints[name='Design']/@ownedRepresentations[name='Entities']/@defaultLayer/@containerMappings[name='EC%20EEnum']/@subNodeMappings[name='EC%20EEnumLiteral']/@style"/>
         </ownedStyle>
