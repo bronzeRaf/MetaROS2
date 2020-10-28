@@ -11,11 +11,11 @@
   <genPackages prefix="Metageneros" disposableProviderFactory="true" ecorePackage="metageneros.ecore#/">
     <genClasses ecoreClass="metageneros.ecore#//ROSSystem">
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute metageneros.ecore#//ROSSystem/name"/>
-      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference metageneros.ecore#//ROSSystem/hasDeployment"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference metageneros.ecore#//ROSSystem/hasTopology"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference metageneros.ecore#//ROSSystem/hasSoftware"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference metageneros.ecore#//ROSSystem/hasSystemGraph"/>
     </genClasses>
-    <genClasses ecoreClass="metageneros.ecore#//Deployment"/>
+    <genClasses ecoreClass="metageneros.ecore#//Topology"/>
     <genClasses ecoreClass="metageneros.ecore#//Software"/>
     <genClasses ecoreClass="metageneros.ecore#//SystemGraph"/>
   </genPackages>

@@ -1,9 +1,9 @@
-#Sat Oct 24 22:09:43 EEST 2020
+#Wed Oct 28 03:52:08 EET 2020
 print.useInches=true
 rulergrid.rulerunit=0
 print.margin.left=0.5
 rulergrid.gridlinestyle=6
-viewport.y=-964
+viewport.y=-891
 zoom=1.0
 print.usePortrait=true
 print.page.height=11.0
